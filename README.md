@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br/>
   <img aligh="center" alt="Python" scr="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img aligh="center" alt="Jupyter" scr="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
+   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 ## Saiba mais sobre meus projetos
