@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br/>
   <img aligh="center" alt="Python" scr="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img aligh="center" alt="Jupyter" scr="	https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
-</div><br/>
+</div>
 
 ## Saiba mais sobre meus projetos
 -[Lattes](https://lattes.cnpq.br/8852869229454152)<br/>
