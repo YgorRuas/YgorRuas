@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Ygor Ruas 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorRuas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorRuas&layout=compact)
 
 ## Saiba mais sobre mim
 
@@ -10,10 +11,7 @@
 
 ## Ferramentas & Tecnologias
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="jupyter" src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" />
-  <img align="center" alt="html5" src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" />
-</div>
+
 
 ## Saiba mais sobre meus projetos
 -[Lattes](https://lattes.cnpq.br/8852869229454152)<br/>
