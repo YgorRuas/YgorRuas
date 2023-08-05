@@ -14,5 +14,5 @@
 
 
 ## Saiba mais sobre meus projetos
-- [Lattes](https://lattes.cnpq.br/8852869229454152)<br/>
--[Orcid](https://orcid.org/0009-0006-9149-9565)<br/>
+[Lattes](https://lattes.cnpq.br/8852869229454152)<br/>
+[Orcid](https://orcid.org/0009-0006-9149-9565)<br/>
