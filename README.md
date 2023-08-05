@@ -11,8 +11,12 @@
 
 ## Ferramentas & Tecnologias
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
 
+<hr>
 
 ## Saiba mais sobre meus projetos
-[Lattes](https://lattes.cnpq.br/8852869229454152)<br/>
-[Orcid](https://orcid.org/0009-0006-9149-9565)<br/>
+- [Lattes](https://lattes.cnpq.br/8852869229454152)<br/>
+- [Orcid](https://orcid.org/0009-0006-9149-9565)<br/>
