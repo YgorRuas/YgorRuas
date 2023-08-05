@@ -1,7 +1,13 @@
 ### Olá! Eu sou o Ygor Ruas 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorRuas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorRuas&layout=compact&theme=radical)
+<div> 
+<a href="https://github.com/seu-usuário-aqui">
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=YgorRuas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorRuas&layout=compact&langs_count=7&theme=radical"/>
+</div> 
+
+  
+  <hr>
 
 ## Saiba mais sobre mim
 
