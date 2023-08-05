@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ygor Ruas 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorRuas&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorRuas&show_icons=true&theme=radical)
 
 ## Saiba mais sobre mim
 
