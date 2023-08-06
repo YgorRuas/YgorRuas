@@ -1,14 +1,9 @@
 ![image](https://github.com/YgorRuas/YgorRuas/assets/106711102/ac0fb053-c10b-4dbd-a5d5-5316a5a29005)
-<center>
-<img src='https://github.com/YgorRuas/YgorRuas/assets/106711102/ac0fb053-c10b-4dbd-a5d5-5316a5a29005' style="width:900px;height:400px"/>
-</center>
-
-### Olá! Eu sou o Ygor Ruas 👋
 
 <div> 
 <a href="https://github.com/seu-usuário-aqui">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=YgorRuas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorRuas&layout=compact&langs_count=7&theme=radical"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=YgorRuas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorRuas&layout=compact&langs_count=7&theme=radical"/>
 </div> 
 
   
