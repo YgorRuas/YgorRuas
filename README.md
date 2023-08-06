@@ -1,3 +1,8 @@
+![image](https://github.com/YgorRuas/YgorRuas/assets/106711102/ac0fb053-c10b-4dbd-a5d5-5316a5a29005)
+<center>
+<img src='https://github.com/YgorRuas/YgorRuas/assets/106711102/ac0fb053-c10b-4dbd-a5d5-5316a5a29005' style="width:900px;height:400px"/>
+</center>
+
 ### Olá! Eu sou o Ygor Ruas 👋
 
 <div> 
