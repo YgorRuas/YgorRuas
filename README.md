@@ -1,5 +1,10 @@
 ![image](https://github.com/YgorRuas/YgorRuas/assets/106711102/ac0fb053-c10b-4dbd-a5d5-5316a5a29005)
 
+- 🟣 Meu nome é Ygor Fagundes Ruas
+- 🟣 Estudante do Bacharelado de Ciência e Tecnologia da Ilum - Escola de Ciência - Campinas/SP
+- 🟣 A Ilum é uma iniciativa da instituição social CNPEM - Campinas/SP
+- 🟣 Nessa conta, você poderá ver todos os repositórios que criei ao longo da minha trajetória acadêmica!
+
 <div> 
 <a href="https://github.com/seu-usuário-aqui">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YgorRuas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
